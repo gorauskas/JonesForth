@@ -8,5 +8,5 @@ Herein you will find a clone (or backup) of Jones' Forth. A [Forth](https://en.w
 
 ----
 
-Site: https://web.archive.org/web/20090209211708/http://annexia.org/forth
-Code: http://git.annexia.org/?p=jonesforth.git;a=tree
+1. Site: https://web.archive.org/web/20090209211708/http://annexia.org/forth
+2. Code: http://git.annexia.org/?p=jonesforth.git;a=tree
