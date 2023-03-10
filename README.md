@@ -8,5 +8,7 @@ Herein you will find a clone (or backup) of Jones' Forth. A [Forth](https://en.w
 
 ----
 
-1. Site: https://web.archive.org/web/20090209211708/http://annexia.org/forth
-2. Code: http://git.annexia.org/?p=jonesforth.git;a=tree
+1. Original Annexia Site: [https://web.archive.org/web/20090209211708/http://annexia.org](https://web.archive.org/web/20090122050451/http://www.annexia.org/)
+2. Original Jones' Forth Page: [https://web.archive.org/web/20090209211708/http://annexia.org/forth](https://web.archive.org/web/20090209211708/http://annexia.org/forth)
+3. Original Source Code: [http://git.annexia.org/?p=jonesforth.git;a=tree](http://git.annexia.org/?p=jonesforth.git;a=tree)
+4. Current Richard WM Jones Blog: [https://rwmj.wordpress.com/](https://rwmj.wordpress.com/)
